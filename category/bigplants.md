@@ -1,5 +1,5 @@
 ---
-title: Big plantszz
+title: Big plants
 layout: category
 order: 1
 seo:
