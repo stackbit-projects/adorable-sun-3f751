@@ -13,7 +13,7 @@ sections:
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: Beats Store
+      - title: BEATS STORE
         url: /store
         arrow: true
         style: primary
