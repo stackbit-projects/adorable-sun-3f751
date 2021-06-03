@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Rodeo | Dababy
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/vinyl-cover(1).webp
 default_original_image: images/plant3-lg.jpg
