@@ -7,11 +7,7 @@ sections:
     section_id: hero_section
     background_image: images/cover.webp
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: "# Le Monde est à nous !&#xA;\n\nNhSupa\_#1 Marketplace for US\_FR and Dancehall Type beats\n\n"
     actions:
       - title: BEATS STORE
         url: /store
