@@ -2,7 +2,7 @@
 layout: product
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: Real Love | Dancehall
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/vinyl-cover(3).webp
 default_original_image: images/plant7-lg.jpg
