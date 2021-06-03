@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: US Beats
 layout: category
 order: 2
 seo:
