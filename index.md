@@ -9,7 +9,7 @@ sections:
     background_image_opacity: 65
     content: "# Le Monde est à nous !&#xA;\n\nNhSupa\_#1 Marketplace for US\_FR and Dancehall Type beats\n\n"
     actions:
-      - title: BEATS STORE
+      - title: Beats Store
         url: /store
         arrow: true
         style: primary
