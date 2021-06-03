@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Free Beats
 layout: category
 order: 1
 seo:
