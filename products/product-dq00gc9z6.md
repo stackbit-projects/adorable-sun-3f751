@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Brigade Fantome | Freeze Corleone
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 5
 featured: false
 seo:
   title: ''
