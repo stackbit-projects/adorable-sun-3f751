@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/europe.md
 default_thumbnail_image: images/smart-chestnut.webp
+default_original_image: images/thoughtful-sycamore.webp
 ---
 ## Lorem ipsum
 
