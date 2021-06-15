@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '??'
 title: Real Love
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/vinyl-cover(3).webp
