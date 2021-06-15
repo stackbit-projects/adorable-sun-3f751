@@ -10,7 +10,7 @@ description: >-
 default_thumbnail_image: images/Namikaze.webp
 default_original_image: images/interesting-bee.webp
 featured: true
-order: 1
+order: 5
 category: category/bigplants.md
 seo:
   title: Nulla suscipit
