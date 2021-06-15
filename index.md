@@ -20,7 +20,6 @@ sections:
     light_title: true
     featured_products:
       - products/product-rbu21dhs6.md
-      - products/plant1.md
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
@@ -28,6 +27,7 @@ sections:
       - products/product-6m07kc79y.md
       - products/product-8cipb3dxb.md
       - products/product-pl93n8t51.md
+      - products/plant1.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
