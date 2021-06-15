@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Suna | Egyptian Trap
 description: lorem-ipsum
 price: '0'
-order: 0
+order: 2
 featured: false
 seo:
   title: ''
