@@ -57,7 +57,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: NhSupa
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
