@@ -1,5 +1,5 @@
 ---
-title: 'FR '
+title: FR Beats
 order: 0
 seo:
   title: ''
