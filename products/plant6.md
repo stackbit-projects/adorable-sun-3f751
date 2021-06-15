@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
+price: '0'
 title: Rolex | Trap
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/incredible-chestnut.webp
