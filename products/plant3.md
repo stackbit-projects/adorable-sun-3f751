@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '??'
 title: Rodeo | Dababy
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/vinyl-cover(1).webp
