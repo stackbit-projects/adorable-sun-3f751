@@ -30,7 +30,6 @@ sections:
       - category/cactuses.md
       - category/category-dfvqx7sfd.md
       - category/europe.md
-      - category/category-2e409ib44.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
