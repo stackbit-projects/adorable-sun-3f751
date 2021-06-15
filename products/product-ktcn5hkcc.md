@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Over It |
+title: Over It | Smooth Trap
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
