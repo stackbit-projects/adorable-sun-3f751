@@ -1,6 +1,6 @@
 ---
 title: FR Beats
-order: -2
+order: 0
 seo:
   title: ''
   description: ''
