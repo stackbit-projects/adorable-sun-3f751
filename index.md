@@ -19,13 +19,13 @@ sections:
     icon: true
     light_title: true
     featured_products:
+      - products/product-rbu21dhs6.md
       - products/plant1.md
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
       - products/product-xcdf1tu3g.md
       - products/product-6m07kc79y.md
-      - products/product-rbu21dhs6.md
       - products/product-8cipb3dxb.md
       - products/product-pl93n8t51.md
   - type: featured_categories_section
