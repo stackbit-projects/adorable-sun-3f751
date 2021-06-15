@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Projets 2019
 layout: category
 order: 5
 seo:
