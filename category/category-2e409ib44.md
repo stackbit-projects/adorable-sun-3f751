@@ -1,6 +1,6 @@
 ---
 title: Projet 2020
-order: 0
+order: 6
 seo:
   title: ''
   description: ''
