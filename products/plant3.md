@@ -5,7 +5,7 @@ price: '150.00'
 title: Rodeo | Dababy
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/vinyl-cover(1).webp
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/smart-sloth.webp
 featured: true
 order: 3
 category: category/cactuses.md
