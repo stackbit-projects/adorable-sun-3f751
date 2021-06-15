@@ -9,7 +9,7 @@ description: >-
 default_thumbnail_image: images/vinyl-cover(2).webp
 default_original_image: images/kind-olive.webp
 featured: true
-order: 5
+order: 1
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
