@@ -36,6 +36,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant5-lg.jpg
       relativeUrl: true
+category: category/category-dfvqx7sfd.md
 ---
 
 # Vestibulum eget
