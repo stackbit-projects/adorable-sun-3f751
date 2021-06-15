@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/europe.md
 default_thumbnail_image: images/beige-spider.webp
+default_original_image: images/knowledgeable-basil.webp
 ---
 ## Lorem ipsum
 
