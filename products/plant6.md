@@ -5,7 +5,7 @@ price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/incredible-chestnut.webp
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/purple-thyme.webp
 order: 6
 category: category/bigplants.md
 seo:
