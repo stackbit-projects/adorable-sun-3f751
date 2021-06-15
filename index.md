@@ -28,7 +28,6 @@ sections:
       - products/product-rbu21dhs6.md
       - products/product-8cipb3dxb.md
       - products/product-pl93n8t51.md
-      - products/product-rbu21dhs6.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
