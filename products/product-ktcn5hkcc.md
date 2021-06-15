@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Over It | Smooth Trap
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 1
 featured: false
 seo:
   title: ''
