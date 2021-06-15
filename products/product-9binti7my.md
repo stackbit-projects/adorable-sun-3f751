@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/europe.md
+default_thumbnail_image: images/interesting-oregano.webp
 ---
 ## Lorem ipsum
 
