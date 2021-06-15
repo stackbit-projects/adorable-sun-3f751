@@ -2,7 +2,7 @@
 layout: product
 id: '4'
 price: '??'
-title: Cras molestie
+title: Akuma |
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
 default_original_image: images/plant4-lg.jpg
