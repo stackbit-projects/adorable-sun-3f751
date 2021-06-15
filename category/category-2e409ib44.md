@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Projet 2020
 order: 0
 seo:
   title: ''
