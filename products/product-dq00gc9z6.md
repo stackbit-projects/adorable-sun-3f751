@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Brigade Fantome | Freeze Corléone
+title: Brigade Fantome | Freeze Corleone
 description: lorem-ipsum
 price: '??'
 order: 0
