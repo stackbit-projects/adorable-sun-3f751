@@ -1,5 +1,5 @@
 ---
-title: F
+title: 'FR '
 order: 0
 seo:
   title: ''
