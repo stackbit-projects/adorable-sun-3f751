@@ -1,5 +1,5 @@
 ---
-title: Projets 2019
+title: Projet 2019
 layout: category
 order: 5
 seo:
