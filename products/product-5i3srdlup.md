@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Ferrari | Laskiiz
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 2
 featured: false
 seo:
   title: ''
