@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/cactuses.md
+default_thumbnail_image: images/curious-thyme.webp
 ---
 ## Lorem ipsum
 
