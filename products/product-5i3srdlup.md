@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Ferrari | Lasskiz
+title: Ferrari | Laskiiz
 description: lorem-ipsum
 price: '??'
 order: 0
