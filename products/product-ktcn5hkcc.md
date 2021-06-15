@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/cactuses.md
 default_thumbnail_image: images/diligent-onion.webp
+default_original_image: images/royal-jupiter.webp
 ---
 ## Lorem ipsum
 
