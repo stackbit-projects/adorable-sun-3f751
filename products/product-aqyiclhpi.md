@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Slow Down
 description: lorem-ipsum
 price: '??'
 order: 0
