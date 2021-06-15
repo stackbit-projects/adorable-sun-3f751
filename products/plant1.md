@@ -8,7 +8,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/vinyl-cover.webp
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/unique-tiger.webp
 featured: true
 order: 1
 category: category/bigplants.md
