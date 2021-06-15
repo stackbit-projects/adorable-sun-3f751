@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Caption
 description: lorem-ipsum
 price: '??'
 order: 0
