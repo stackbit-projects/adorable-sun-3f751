@@ -7,7 +7,7 @@ description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci
 default_thumbnail_image: images/vinyl-cover(4).webp
 default_original_image: images/beige-basil.webp
 featured: true
-order: 9
+order: 6
 category: category/cactuses.md
 seo:
   title: Fusce sagittis
