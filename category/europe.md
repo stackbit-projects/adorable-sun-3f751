@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Dancehall Beats
 layout: category
 order: 4
 seo:
