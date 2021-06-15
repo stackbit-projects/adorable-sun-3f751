@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/bigplants.md
+default_thumbnail_image: images/nervous-rosemary.webp
 ---
 ## Lorem ipsum
 
