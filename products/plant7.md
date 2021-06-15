@@ -5,7 +5,7 @@ price: '??'
 title: Real Love
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/vinyl-cover(3).webp
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/fierce-apple.webp
 order: 2
 seo:
   title: Sed consectetur
