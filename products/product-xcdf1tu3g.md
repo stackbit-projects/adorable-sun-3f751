@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
-order: 0
+order: 2
 featured: false
 seo:
   title: ''
