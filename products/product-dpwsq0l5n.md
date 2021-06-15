@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-dfvqx7sfd.md
 default_thumbnail_image: images/nervous-octopus.webp
+default_original_image: images/square-strawberry.webp
 ---
 ## Lorem ipsum
 
