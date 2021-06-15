@@ -23,7 +23,6 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
-      - products/product-8hdvt5d81.md
       - products/product-r0bcs3xqb.md
       - products/product-dpwsq0l5n.md
       - products/product-dq00gc9z6.md
