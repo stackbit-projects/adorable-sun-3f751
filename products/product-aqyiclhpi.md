@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/europe.md
 default_thumbnail_image: images/green-parsley.webp
+default_original_image: images/maroon-steel.webp
 ---
 ## Lorem ipsum
 
