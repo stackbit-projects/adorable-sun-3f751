@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/vinyl-cover.webp
+default_thumbnail_image: images/Namikaze.webp
 default_original_image: images/unique-tiger.webp
 featured: true
 order: 1
