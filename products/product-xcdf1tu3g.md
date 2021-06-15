@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Draco Back |
 description: lorem-ipsum
 price: '??'
 order: 2
