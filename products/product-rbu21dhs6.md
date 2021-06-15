@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: High | Playboi Carti
 description: lorem-ipsum
-price: lorem-ipsum
+price: '0'
 order: 0
 featured: false
 seo:
