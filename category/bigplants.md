@@ -1,5 +1,5 @@
 ---
-title: Fr Beats
+title: Free Beats
 layout: category
 order: 1
 seo:
