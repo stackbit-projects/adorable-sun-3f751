@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Gamos | Maes
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 3
 featured: false
 seo:
   title: ''
