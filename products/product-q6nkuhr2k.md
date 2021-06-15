@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Emotion
 description: lorem-ipsum
 price: '??'
 order: 0
