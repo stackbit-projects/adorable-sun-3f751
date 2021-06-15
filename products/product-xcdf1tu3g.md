@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Draco Back |
+title: Draco Back | Soulja Boy
 description: lorem-ipsum
 price: '??'
 order: 2
