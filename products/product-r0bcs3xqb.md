@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Fendi | Koba x Niska
 description: lorem-ipsum
 price: '??'
 order: 0
