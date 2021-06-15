@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Roses | Trap
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
