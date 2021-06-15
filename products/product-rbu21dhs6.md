@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/bigplants.md
 default_thumbnail_image: images/nervous-rosemary.webp
+default_original_image: images/robust-triceratops.webp
 ---
 ## Lorem ipsum
 
