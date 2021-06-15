@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Addiction
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 1
 featured: false
 seo:
   title: ''
@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/europe.md
 default_thumbnail_image: images/interesting-oregano.webp
+default_original_image: images/oceanic-plankton.webp
 ---
 ## Lorem ipsum
 
