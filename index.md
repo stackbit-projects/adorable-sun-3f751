@@ -67,7 +67,7 @@ seo:
       value: NhSupa website
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: Marketplace of best beats ever
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/rainy-cabbage.webp
