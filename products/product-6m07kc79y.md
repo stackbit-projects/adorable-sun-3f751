@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/bigplants.md
 default_thumbnail_image: images/clever-neptune.webp
+default_original_image: images/pleasant-zucchini.webp
 ---
 ## Lorem ipsum
 
