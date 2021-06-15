@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-dfvqx7sfd.md
 default_thumbnail_image: images/successful-pluto.webp
+default_original_image: images/mighty-onion.webp
 ---
 ## Lorem ipsum
 
