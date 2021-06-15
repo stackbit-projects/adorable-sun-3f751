@@ -58,7 +58,7 @@ sections:
       arrow: true
 seo:
   title: NhSupa
-  description: The preview of the Planty theme
+  description: 'NhSupa official website, store of beats'
   extra:
     - name: 'og:type'
       value: website
