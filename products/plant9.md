@@ -2,7 +2,7 @@
 layout: product
 id: '9'
 price: '??'
-title: Fusce sagittis
+title: Blood Knife | 21 Savage
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/plant9.jpg
 default_original_image: images/plant9-lg.jpg
