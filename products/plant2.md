@@ -4,7 +4,7 @@ id: '2'
 price: '??'
 title: One Time | Trap
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/famous-rosemary.webp
 default_original_image: images/plant2-lg.jpg
 order: 1
 category: category/cactuses.md
