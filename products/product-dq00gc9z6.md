@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/category-dfvqx7sfd.md
 default_thumbnail_image: images/superb-ant.webp
+default_original_image: images/fabulous-tiger.webp
 ---
 ## Lorem ipsum
 
