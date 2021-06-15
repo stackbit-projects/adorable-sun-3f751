@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/bigplants.md
 default_thumbnail_image: images/robust-planet.webp
+default_original_image: images/adorable-steel.webp
 ---
 ## Lorem ipsum
 
