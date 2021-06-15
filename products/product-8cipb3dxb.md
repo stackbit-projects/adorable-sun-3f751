@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/bigplants.md
 default_thumbnail_image: images/splendid-elm.webp
+default_original_image: images/modern-chili.webp
 ---
 ## Lorem ipsum
 
