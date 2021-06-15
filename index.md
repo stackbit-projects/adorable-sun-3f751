@@ -27,6 +27,7 @@ sections:
       - products/product-9binti7my.md
       - products/product-q6nkuhr2k.md
       - products/product-sdalf0b2s.md
+      - products/product-aqyiclhpi.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
