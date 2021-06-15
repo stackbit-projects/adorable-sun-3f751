@@ -29,6 +29,7 @@ sections:
       - category/bigplants.md
       - category/cactuses.md
       - category/category-dfvqx7sfd.md
+      - category/europe.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
