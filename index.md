@@ -70,7 +70,7 @@ seo:
       value: The preview of the Planty theme
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: /_static/app-assets/rainy-cabbage.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
