@@ -24,6 +24,7 @@ sections:
       - products/plant5.md
       - products/plant7.md
       - products/product-xxw7rsp5m.md
+      - products/product-9binti7my.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
