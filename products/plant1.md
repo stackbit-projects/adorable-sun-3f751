@@ -8,7 +8,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/Namikaze.webp
-default_original_image: images/unique-tiger.webp
+default_original_image: images/interesting-bee.webp
 featured: true
 order: 1
 category: category/bigplants.md
