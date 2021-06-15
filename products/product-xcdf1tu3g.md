@@ -14,6 +14,7 @@ seo:
 layout: product
 category: category/cactuses.md
 default_thumbnail_image: images/curious-thyme.webp
+default_original_image: images/best-onion.webp
 ---
 ## Lorem ipsum
 
