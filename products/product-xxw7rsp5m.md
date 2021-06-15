@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: Loyalty
 description: lorem-ipsum
 price: '??'
-order: 0
+order: 6
 featured: false
 seo:
   title: ''
