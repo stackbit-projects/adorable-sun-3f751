@@ -5,7 +5,7 @@ price: '??'
 title: Blood Knife | 21 Savage
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/vinyl-cover(4).webp
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/beige-basil.webp
 featured: true
 order: 9
 category: category/cactuses.md
