@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Univers | Trap
 description: lorem-ipsum
-price: lorem-ipsum
+price: '0'
 order: 0
 featured: false
 seo:
