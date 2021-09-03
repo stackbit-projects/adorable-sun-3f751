@@ -44,7 +44,7 @@
         {
             "title": "Instagram",
             "url": "https://www.instagram.com/nhsupa/",
-            "style": "link",
+            "style": "primary",
             "arrow": false,
             "type": "action"
         }
