@@ -40,6 +40,13 @@
             "style": "primary",
             "arrow": false,
             "type": "action"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "domain": "https://adorable-sun-3f751.netlify.app"
